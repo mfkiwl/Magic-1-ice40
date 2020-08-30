@@ -68,18 +68,6 @@
   "project": {
     "files": [
       {
-        "name": "ALU & Regs board.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 0,
-          "pos_y": 20,
-          "size_x": 1920,
-          "size_y": 1080
-        }
-      },
-      {
         "name": "ALU & Regs board.kicad_pro",
         "open": false,
         "window": {

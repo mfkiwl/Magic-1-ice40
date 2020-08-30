@@ -14,4 +14,4 @@ They are designed to be used in a Schroff EuropacPRO enclosure
 
 The holes on the outside edge of the card (opposite to the connectors)
 are designed to accept the Schroff card extractors ref 24560-378
-You will also need to add ref 24560-378 for each card slot for this to work
+You will also need to add ref 24560-377 for each card slot for this to work
