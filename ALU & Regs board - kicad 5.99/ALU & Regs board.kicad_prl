@@ -59,26 +59,13 @@
       36,
       37
     ],
-    "visible_layers": "3ffff_80000007"
+    "visible_layers": "3ffff_80000001"
   },
   "meta": {
     "filename": "ALU & Regs board.kicad_prl",
     "version": 2
   },
   "project": {
-    "files": [
-      {
-        "name": "ALU & Regs board.kicad_pro",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 448,
-          "pos_y": 87,
-          "size_x": 828,
-          "size_y": 655
-        }
-      }
-    ]
+    "files": []
   }
 }
