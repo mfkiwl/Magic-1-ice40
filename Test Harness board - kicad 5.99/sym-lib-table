@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "DIN_41612")(type "KiCad")(uri "/home/sxpert/dev/Magic-1/libraries/DIN_41612.kicad_sym")(options "")(descr "DIN 41612 connectors"))
+)
