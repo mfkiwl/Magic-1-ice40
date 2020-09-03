@@ -59,38 +59,13 @@
       36,
       37
     ],
-    "visible_layers": "3ffff_80000001"
+    "visible_layers": "7ffff_ffffffff"
   },
   "meta": {
-    "filename": "ALU & Regs board.kicad_prl",
+    "filename": "Test Harness board.kicad_prl",
     "version": 2
   },
   "project": {
-    "files": [
-      {
-        "name": "ALU & Regs board.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 20,
-          "size_x": 500,
-          "size_y": 400
-        }
-      },
-      {
-        "name": "ALU & Regs board.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 20,
-          "size_x": 500,
-          "size_y": 400
-        }
-      }
-    ]
+    "files": []
   }
 }
