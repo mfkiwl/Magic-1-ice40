@@ -105,7 +105,9 @@
       "track_widths": [
         0.1,
         0.1,
-        0.2
+        0.127,
+        0.2,
+        0.8
       ],
       "via_dimensions": [
         {
@@ -322,6 +324,22 @@
         "via_diameter": 0.46,
         "via_drill": 0.2,
         "wire_width": 6.0
+      },
+      {
+        "bus_width": 6.0,
+        "clearance": 0.127,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "inside",
+        "nets": [],
+        "track_width": 0.127,
+        "via_diameter": 0.46,
+        "via_drill": 0.2,
+        "wire_width": 6.0
       }
     ],
     "meta": {
@@ -366,7 +384,7 @@
   },
   "sheets": [
     [
-      "a443ece3-843b-40dd-90ec-1e8fb1574099",
+      "d13672d6-8591-4dda-b1d0-2107515084e3",
       ""
     ],
     [
