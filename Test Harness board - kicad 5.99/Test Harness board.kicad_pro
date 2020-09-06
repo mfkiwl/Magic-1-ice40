@@ -11,7 +11,7 @@
         "copper_text_upright": false,
         "courtyard_line_width": 0.049999999999999996,
         "dimension_precision": 1,
-        "dimension_units": 0,
+        "dimension_units": 2,
         "fab_line_width": 0.09999999999999999,
         "fab_text_italic": false,
         "fab_text_size_h": 1.0,
@@ -37,7 +37,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.21
         }
       },
       "diff_pair_dimensions": [
@@ -89,25 +89,23 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.09,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.39999999999999997,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.09,
-        "min_via_annulus": 0.13,
+        "min_via_annulus": 0.125,
         "min_via_diameter": 0.44999999999999996,
-        "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0,
+        "solder_mask_clearance": 0.049999999999999996,
+        "solder_mask_min_width": 0.254,
         "solder_paste_clearance": 0.0,
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
         0.1,
-        0.1,
         0.127,
-        0.2,
-        0.8
+        0.9
       ],
       "via_dimensions": [
         {
@@ -115,8 +113,12 @@
           "drill": 0.2
         },
         {
-          "diameter": 0.46,
+          "diameter": 0.45,
           "drill": 0.2
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false,
@@ -384,7 +386,7 @@
   },
   "sheets": [
     [
-      "d13672d6-8591-4dda-b1d0-2107515084e3",
+      "c7e69751-8697-4017-adbd-43e57d83ee25",
       ""
     ],
     [
