@@ -103,13 +103,13 @@
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.1,
+        0.127,
         0.127,
         0.9
       ],
       "via_dimensions": [
         {
-          "diameter": 0.46,
+          "diameter": 0.45,
           "drill": 0.2
         },
         {
@@ -314,7 +314,7 @@
     "classes": [
       {
         "bus_width": 6.0,
-        "clearance": 0.09,
+        "clearance": 0.127,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -322,8 +322,8 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
-        "track_width": 0.1,
-        "via_diameter": 0.46,
+        "track_width": 0.127,
+        "via_diameter": 0.45,
         "via_drill": 0.2,
         "wire_width": 6.0
       },
@@ -386,7 +386,7 @@
   },
   "sheets": [
     [
-      "c7e69751-8697-4017-adbd-43e57d83ee25",
+      "91f4f030-5c1d-459c-a4f6-401da2fe83b2",
       ""
     ],
     [
