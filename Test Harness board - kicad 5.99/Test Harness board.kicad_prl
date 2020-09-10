@@ -58,13 +58,26 @@
       36,
       37
     ],
-    "visible_layers": "3ffff_80000007"
+    "visible_layers": "3ffff_80000005"
   },
   "meta": {
     "filename": "Test Harness board.kicad_prl",
     "version": 2
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "Test Harness board.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 20,
+          "size_x": 500,
+          "size_y": 400
+        }
+      }
+    ]
   }
 }
