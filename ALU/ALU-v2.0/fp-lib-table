@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ice40-384-sg32")(type "KiCad")(uri "/Users/sxpert/devel/kicad libs/ul_ICE40LP384SG32/KiCAD/2020-08-18_16-20-08/footprints.pretty")(options "")(descr ""))
+  (lib (name "Din41612")(type "KiCad")(uri "/Users/sxpert/devel/kicad libs/Connector_DIN.pretty")(options "")(descr ""))
+  (lib (name "Schroff")(type "KiCad")(uri "/Users/sxpert/devel/kicad libs/Schroff.pretty")(options "")(descr ""))
+)
