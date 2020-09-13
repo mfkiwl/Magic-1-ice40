@@ -2706,12 +2706,12 @@
   (junction (at 367.03 179.07) (diameter 1.016) (color 0 0 0 0))
   (junction (at 367.03 233.68) (diameter 1.016) (color 0 0 0 0))
 
-  (no_connect (at 69.85 111.76))
-  (no_connect (at 224.79 46.99))
-  (no_connect (at 224.79 52.07))
-  (no_connect (at 130.81 119.38))
-  (no_connect (at 224.79 49.53))
   (no_connect (at 130.81 121.92))
+  (no_connect (at 69.85 111.76))
+  (no_connect (at 224.79 49.53))
+  (no_connect (at 224.79 52.07))
+  (no_connect (at 224.79 46.99))
+  (no_connect (at 130.81 119.38))
 
   (wire (pts (xy 21.59 269.24) (xy 30.48 269.24))
     (stroke (width 0) (type solid) (color 0 0 0 0))
