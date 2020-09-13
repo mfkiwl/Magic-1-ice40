@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -59,38 +59,13 @@
       36,
       37
     ],
-    "visible_layers": "21020_80000005"
+    "visible_layers": "21020_80000007"
   },
   "meta": {
     "filename": "ALU_Regs.kicad_prl",
     "version": 2
   },
   "project": {
-    "files": [
-      {
-        "name": "ALU_Regs.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 46,
-          "pos_y": 23,
-          "size_x": 1920,
-          "size_y": 1003
-        }
-      },
-      {
-        "name": "ALU_Regs.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 20,
-          "size_x": 500,
-          "size_y": 400
-        }
-      }
-    ]
+    "files": []
   }
 }
