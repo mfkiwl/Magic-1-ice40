@@ -1,4 +1,4 @@
-18946297228609994
+18977211783220994
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -239,63 +239,63 @@ battery CR1225 coin cell
 0
 Battery
 Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
-Panasonic CR-1025/VSK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-1025/VSK battery
 battery CR-1025 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles
-Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.PDF
 battery CR-1220 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles
-Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D464.PDF
 battery CR-1632 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles
-Panasonic CR-2025/V1AK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-2025/V1AK battery,
 battery CR-2025 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles
-Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D348.PDF
 battery CR-2032 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles
-Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D486.PDF
 battery CR-2354/VCN coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles
-Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D492.PDF
 battery CR-2450 coin cell
 0
 2
 2
 Battery
 Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
-Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D502.PDF
 battery CR-2477 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
-Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
+Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 battery CR-3032 coin cell vertical
 0
 2
@@ -59766,8 +59766,8 @@ BGA-121
 121
 121
 Package_BGA
-BGA-132_12x18mm_Layout11x17_P0.5mm
-BGA-132 11x17 12x18mm 0.5pitch
+BGA-132_12x18mm_Layout11x17_P1.0mm
+BGA-132 11x17 12x18mm 1.0pitch
 BGA-132
 0
 132
@@ -60241,6 +60241,13 @@ VFBGA-49
 0
 49
 49
+Package_BGA
+VFBGA-86_6x6mm_Layout10x10_P0.55mm_Ball0.25mm_Pad0.2mm
+VFBGA-86, 6.0x6.0mm, 86 Ball, 10x10 Layout, 0.55mm Pitch, https://www.dialog-semiconductor.com/sites/default/files/da1469x_datasheet_3v1.pdf#page=740
+BGA 86 0.55
+0
+86
+86
 Package_BGA
 VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm
 VFBGA-100, 10x10, 7x7mm package, pitch 0.65mm
@@ -61180,6 +61187,13 @@ CSP 12 0.2x0.346333
 12
 12
 Package_CSP
+WLCSP-16_1.409x1.409mm_P0.35mm
+WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213
+CSP 16 0.35
+0
+16
+16
+Package_CSP
 WLCSP-16_4x4_B2.17x2.32mm_P0.5mm
 WLCSP-16, http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf, http://www.nxp.com/assets/documents/data/en/application-notes/AN3846.pdf
 WLCSP-16 NXP
@@ -61372,6 +61386,13 @@ Package_DFN_QFN
 DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm
 DC8 Package 8-Lead Plastic DFN (2mm x 2mm) (see Linear Technology DFN_8_05-08-1719.pdf)
 DFN 0.45
+0
+11
+9
+Package_DFN_QFN
+DFN-8-1EP_2x3mm_P0.5mm_EP0.56x2.15mm
+DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/2451fg.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 11
 9
@@ -63657,6 +63678,20 @@ TQFN NoLead
 0
 75
 49
+Package_DFN_QFN
+Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
+Texas instruments QFN Package, datasheet: https://www.ti.com/lit/ds/symlink/tpsm53602.pdf
+Texas instruments QFN
+0
+15
+15
+Package_DFN_QFN
+Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia
+Texas instruments QFN Package, datasheet: https://www.ti.com/lit/ds/symlink/tpsm53602.pdf
+Texas instruments QFN
+0
+34
+15
 Package_DFN_QFN
 Texas_DRB0008A
 DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf
@@ -67515,6 +67550,20 @@ SSOP 0.65
 27
 21
 Package_SO
+HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
+HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+13
+9
+Package_SO
+HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm_ThermalVias
+HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+18
+9
+Package_SO
 HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm
 HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l5973d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 HSOP SO
@@ -68614,6 +68663,13 @@ SOP SO
 8
 8
 Package_SO
+SOP-16_3.9x9.9mm_P1.27mm
+SOP, 16 Pin (https://www.diodes.com/assets/Datasheets/PAM8403.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+16
+16
+Package_SO
 SOP-16_4.4x10.4mm_P1.27mm
 16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
 SOP 1.27
@@ -68634,6 +68690,13 @@ SOP SO
 0
 18
 18
+Package_SO
+SOP-20_7.5x12.8mm_P1.27mm
+SOP, 20 Pin (https://www.holtek.com/documents/10179/116723/sop20-300.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+20
+20
 Package_SO
 SOP-24_7.5x15.4mm_P1.27mm
 SOP, 24 Pin (http://www.issi.com/WW/pdf/31FL3218.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -68991,6 +69054,13 @@ TSOPII TSOP2
 0
 54
 54
+Package_SO
+TSSOP-4_4.4x5mm_P4mm
+TSSOP, 4 Pin (https://www.onsemi.com/pub/Collateral/MDB8S-D.PDF#page=4), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+4
+4
 Package_SO
 TSSOP-8_3x3mm_P0.65mm
 TSSOP8: plastic thin shrink small outline package; 8 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot505-1_po.pdf)
@@ -76243,6 +76313,27 @@ SHT1x
 0
 8
 8
+Sensor
+Senseair_S8_Down
+Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT
+co2 gas sensor pwm modbus
+0
+9
+9
+Sensor
+Senseair_S8_Up
+Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT
+co2 gas sensor pwm modbus
+0
+9
+9
+Sensor_Audio
+CUI_CMC-4013-SMT
+Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
+Microphone CUI 
+0
+2
+2
 Sensor_Audio
 Infineon_PG-LLGA-5-1
 Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/

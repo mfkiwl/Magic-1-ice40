@@ -59,7 +59,7 @@
       36,
       37
     ],
-    "visible_layers": "21020_80000001"
+    "visible_layers": "21020_80000007"
   },
   "meta": {
     "filename": "ALU_Regs.kicad_prl",
@@ -68,7 +68,7 @@
   "project": {
     "files": [
       {
-        "name": "ALU_Regs.kicad_pcb",
+        "name": "ALU_Regs.kicad_sch",
         "open": false,
         "window": {
           "display": 0,
@@ -80,7 +80,7 @@
         }
       },
       {
-        "name": "ALU_Regs.kicad_sch",
+        "name": "ALU_Regs.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,

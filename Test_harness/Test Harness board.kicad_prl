@@ -12,17 +12,17 @@
       "zones": 1.0
     },
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
-      "lockedItems": true,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
+      "lockedItems": false,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       0,
@@ -35,6 +35,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -58,7 +59,7 @@
       36,
       37
     ],
-    "visible_layers": "3ffff_80000005"
+    "visible_layers": "3ff77_80000007"
   },
   "meta": {
     "filename": "Test Harness board.kicad_prl",
@@ -68,6 +69,18 @@
     "files": [
       {
         "name": "Test Harness board.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 20,
+          "size_x": 500,
+          "size_y": 400
+        }
+      },
+      {
+        "name": "Test Harness board.kicad_sch",
         "open": false,
         "window": {
           "display": 0,

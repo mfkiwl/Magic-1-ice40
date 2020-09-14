@@ -103,15 +103,16 @@
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.1,
+        0.2,
         0.127,
         0.25,
+        0.5,
         0.9
       ],
       "via_dimensions": [
         {
-          "diameter": 0.46,
-          "drill": 0.2
+          "diameter": 0.6,
+          "drill": 0.3
         },
         {
           "diameter": 0.45,
@@ -323,9 +324,9 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
-        "track_width": 0.1,
-        "via_diameter": 0.46,
-        "via_drill": 0.2,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       },
       {
@@ -387,7 +388,7 @@
   },
   "sheets": [
     [
-      "c7e69751-8697-4017-adbd-43e57d83ee25",
+      "2c6244ea-a19b-4700-9a1b-f343b48e74a6",
       ""
     ],
     [
