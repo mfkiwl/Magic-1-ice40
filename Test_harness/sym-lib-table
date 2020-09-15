@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "DIN_41612")(type "KiCad")(uri "${KIPRJMOD}/../libraries/DIN_41612.kicad_sym")(options "")(descr "DIN 41612 connectors"))
+  (lib (name "Magic1_components")(type "KiCad")(uri "/Users/sxpert/devel/magique-1/Magic-1 boards/libraries/Components.kicad_sym")(options "")(descr "components for the Magic-1 project"))
 )

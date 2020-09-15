@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -11,10 +11,11 @@
       "vias": 1.0,
       "zones": 1.0
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": false,
-      "footprints": false,
-      "graphics": false,
+      "footprints": true,
+      "graphics": true,
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
@@ -66,31 +67,6 @@
     "version": 2
   },
   "project": {
-    "files": [
-      {
-        "name": "Test Harness board.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 20,
-          "size_x": 500,
-          "size_y": 400
-        }
-      },
-      {
-        "name": "Test Harness board.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 20,
-          "size_x": 500,
-          "size_y": 400
-        }
-      }
-    ]
+    "files": []
   }
 }
