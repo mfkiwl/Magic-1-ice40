@@ -2257,6 +2257,12 @@
     (path "/0bb7ffcb-56f8-4343-bb38-9a762c1c79b6/7a03dfd5-49b5-41ab-b764-b93ac8d0ab3f"
       (reference "J_LEFT1") (unit 3) (value "DIN_41612_R-96-Female") (footprint "Connector_DIN:DIN41612_C_3x32_Male_Horizontal_THT")
     )
+    (path "/0bb7ffcb-56f8-4343-bb38-9a762c1c79b6/a8069256-5e5d-4b81-aadf-4d6fc85bdece"
+      (reference "RN1") (unit 1) (value "82Ω") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
+    )
+    (path "/0bb7ffcb-56f8-4343-bb38-9a762c1c79b6/7336e2e5-61c9-4c22-8410-bd1a09a02b4d"
+      (reference "RN2") (unit 1) (value "82Ω") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
+    )
     (path "/0bb7ffcb-56f8-4343-bb38-9a762c1c79b6/55af7765-732c-42ea-99db-0424f12044b7"
       (reference "RNL1_1_1") (unit 1) (value "R_Pack04") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
