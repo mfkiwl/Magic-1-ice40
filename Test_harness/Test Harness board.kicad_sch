@@ -990,7 +990,7 @@
   (label "SCL_0" (at 49.53 115.57 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
   )
-  (label "SCL_1" (at 49.53 118.11 0)
+  (label "SDA_0" (at 49.53 118.11 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
   )
   (label "SDA" (at 55.88 67.31 0)
@@ -1000,6 +1000,12 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
   )
   (label "PWR_BOARD_ON" (at 97.79 67.31 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+  (label "SDA_0" (at 176.53 24.13 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+  (label "SCL_0" (at 176.53 26.67 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
   )
 
@@ -1359,6 +1365,12 @@
     )
     (property "Sheet file" "Left.kicad_sch" (id 1) (at 176.53 44.9589 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "SDA" input (at 176.53 24.13 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (pin "SCL" input (at 176.53 26.67 180)
+      (effects (font (size 1.27 1.27)) (justify left))
     )
   )
 
@@ -2282,7 +2294,7 @@
       (reference "RNL2_1_2") (unit 1) (value "R_Pack04") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
     (path "/0bb7ffcb-56f8-4343-bb38-9a762c1c79b6/d347ac01-2758-4fd6-be7e-17ff760dc997"
-      (reference "RNL2_2_1") (unit 1) (value "R_Pack04") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
+      (reference "RNL2_2_1") (unit 1) (value "1kΩ") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
     (path "/0bb7ffcb-56f8-4343-bb38-9a762c1c79b6/f54264b3-e6e5-44ec-8677-1ead6d88cfe1"
       (reference "RNL2_2_2") (unit 1) (value "R_Pack04") (footprint "Resistor_SMD:R_Array_Convex_4x1206")

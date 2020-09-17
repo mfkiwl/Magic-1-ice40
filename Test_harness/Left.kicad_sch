@@ -9542,7 +9542,7 @@
     (property "Reference" "RNL2_2_1" (id 0) (at 245.974 241.421 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Pack04" (id 1) (at 245.9737 243.7193 0)
+    (property "Value" "1kΩ" (id 1) (at 245.974 243.719 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206" (id 2) (at 248.285 242.57 90)
