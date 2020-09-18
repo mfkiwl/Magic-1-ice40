@@ -1904,10 +1904,10 @@
   (junction (at 549.91 20.32) (diameter 1.016) (color 0 0 0 0))
   (junction (at 549.91 33.02) (diameter 1.016) (color 0 0 0 0))
 
-  (no_connect (at 457.2 176.53))
-  (no_connect (at 422.91 179.07))
-  (no_connect (at 422.91 176.53))
   (no_connect (at 459.74 176.53))
+  (no_connect (at 422.91 179.07))
+  (no_connect (at 457.2 176.53))
+  (no_connect (at 422.91 176.53))
 
   (wire (pts (xy 17.78 119.38) (xy 17.78 123.19))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -9938,6 +9938,7 @@
     (property "Datasheet" " ~" (id 3) (at 25.4 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Digikey" "1195-2892-ND" (id 4) (at 20.32 78.74 90))
   )
 
   (symbol (lib_id "DIN_41612:DIN_41612_C-96") (at 48.26 55.88 0) (mirror y) (unit 2)
