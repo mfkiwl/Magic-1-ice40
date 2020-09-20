@@ -2010,10 +2010,10 @@
       (reference "#PWR0167") (unit 1) (value "+5V") (footprint "")
     )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/8ce5417d-9194-4121-8435-6f3f4cb75311"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0168") (unit 1) (value "+5V") (footprint "")
     )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/cf8d1398-e1d9-48bc-b335-acd1c415d9c6"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0169") (unit 1) (value "+5V") (footprint "")
     )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/a20c15eb-5c10-4af4-95bf-22795fe1ff62"
       (reference "U1") (unit 1) (value "CY7C1021D") (footprint "Package_SO:TSOP-II-44_10.16x18.41mm_P0.8mm")
