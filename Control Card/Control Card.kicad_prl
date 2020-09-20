@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 44,
-    "active_layer_preset": "All Layers",
+    "active_layer": 1,
+    "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -36,7 +36,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -60,7 +59,7 @@
       36,
       37
     ],
-    "visible_layers": "7ffff_ffffffff"
+    "visible_layers": "3ffff_80000007"
   },
   "meta": {
     "filename": "Control Card.kicad_prl",
