@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Dsub_Harting")(type "KiCad")(uri "/Users/sxpert/devel/magique-1/Magic-1 boards/libraries/Dsub_Harting.pretty")(options "")(descr ""))
+  (lib (name "Dsub_TE_Connectivity")(type "KiCad")(uri "/Users/sxpert/devel/magique-1/Magic-1 boards/libraries/Dsub_TE_Connectivity.pretty")(options "")(descr ""))
+)
