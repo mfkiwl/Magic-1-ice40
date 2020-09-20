@@ -653,6 +653,42 @@
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/35b69dcf-7c82-4b40-a9ed-d6c45ad2c183"
       (reference "#PWR0131") (unit 1) (value "GND") (footprint "")
     )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/484ad66b-f573-4033-8508-80b57c688679"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/4b4426e6-560b-4885-a6a8-5c78b2d389d5"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/6ad0ebab-3c79-4e34-8a35-0c3fa84ff6aa"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/ab99143f-9b47-44c0-a7a6-4cec9cdf7340"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/b0dc543b-e1d7-4d67-93dc-5fe66daa4797"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/bd1f1370-f463-415d-bfe9-f99dcf66a429"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/c7535ca7-8ce2-4d7f-b407-222711c9d1f0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/d15adf0b-32ae-4e20-8e71-1afa40267db4"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/e96f82c8-df59-40c1-b4fc-a23d535baf31"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/f41269a6-907c-4b01-a135-a2971238205a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/f8ca4fd8-bb88-4912-bf19-784d2b7741c8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/fc9b988e-c0e9-45ea-8ae9-1a30ce1b66ea"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/a20c15eb-5c10-4af4-95bf-22795fe1ff62"
       (reference "U1") (unit 1) (value "CY7C1021D") (footprint "Package_SO:TSOP-II-44_10.16x18.41mm_P0.8mm")
     )
@@ -661,6 +697,24 @@
     )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/890cfc4d-b051-4963-8bfc-eceec8f53c56"
       (reference "U3") (unit 1) (value "CY7C1021D") (footprint "Package_SO:TSOP-II-44_10.16x18.41mm_P0.8mm")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/b57b197a-11c8-431c-b4b4-bf8078a49176"
+      (reference "U5") (unit 1) (value "74ACT273") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/5fd79681-17bd-4954-8e5b-7899497e0647"
+      (reference "U6") (unit 1) (value "74ACT273") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/f71be873-a788-4c4c-845d-11273b254e4f"
+      (reference "U7") (unit 1) (value "74ACT273") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/a7893349-4224-4dbb-9c11-e487079062f2"
+      (reference "U8") (unit 1) (value "74ACT273") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/3f515db3-05f4-4054-a6db-b6e7f134bae6"
+      (reference "U9") (unit 1) (value "74ACT273") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
+    )
+    (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/f8250e67-a519-4981-b97b-290c80414831"
+      (reference "U10") (unit 1) (value "74ACT273") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
     )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/ceef12fc-3a8e-4312-b09b-57a25a101f79"
       (reference "U11") (unit 1) (value "74ACT151") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
@@ -813,7 +867,7 @@
       (reference "U101") (unit 1) (value "74LVC1G32") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/88074906-0205-4347-83ce-e778af152668"
-      (reference "U102") (unit 1) (value "74LVC1G157") (footprint "Package_SO:SSOP-8_2.95x2.8mm_P0.65mm")
+      (reference "U102") (unit 1) (value "74LVC2G157") (footprint "Package_SO:SSOP-8_2.95x2.8mm_P0.65mm")
     )
     (path "/d2758184-b05b-4f4e-87b2-699f4f118f55/a51f6340-9b6b-4dda-9ba7-852157ceaac3"
       (reference "U110") (unit 1) (value "74ACT244") (footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
