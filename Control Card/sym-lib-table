@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "components")(type "KiCad")(uri "${KIPRJMOD}/../libraries/Components.kicad_sym")(options "")(descr ""))
+  (lib (name "DIN_41612")(type "KiCad")(uri "${KIPRJMOD}/../libraries/DIN_41612.kicad_sym")(options "")(descr ""))
+)
